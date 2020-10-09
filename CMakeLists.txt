@@ -38,9 +38,9 @@ endif()
 #-----------------------------------------------------------------------------
 # Extension modules
 add_subdirectory(OpenIGTLinkIF)
-add_subdirectory(OpenIGTLinkRemote)
-add_subdirectory(PlusRemote)
-add_subdirectory(UltrasoundRemoteControl)
+# add_subdirectory(OpenIGTLinkRemote)
+# add_subdirectory(PlusRemote)
+# add_subdirectory(UltrasoundRemoteControl)
 ## NEXT_MODULE
 
 #-----------------------------------------------------------------------------
